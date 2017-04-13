@@ -3,6 +3,7 @@
 
 
 const int pump	=	2; //numero de la pin ou brancher la pompe
+const int humid	=	1; //numero de la pin ou brancher le senseur d'humidite
 
 void setup()
 {
