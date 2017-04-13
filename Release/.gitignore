@@ -1,0 +1,8 @@
+/core/
+/makefile
+/objects.mk
+/sources.mk
+/subdir.mk
+/.ino.cpp.d
+/arduino.ar
+/garduino.eep
